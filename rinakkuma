@@ -1,0 +1,80 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Softness Diary</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+<header>
+<h1>Softness Diary</h1>
+<p>A tribute to my 2004-ish blog</p>
+</header>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Links</a></li>
+<li><a href="#">Contact</a></li>
+<li><a href="#">Credits</a></li>
+</ul>
+</nav>
+<main>
+<section class="blog-entry">
+<p>Welcome to my soft and warm place. Here, you can find my current blog posts...</p>
+</section>
+</main>
+<aside>
+<div class="sidebar">
+<h2>Welcome</h2>
+<p>Meu lugar macio e fofo...</p>
+</div>
+</aside>
+<footer>
+<p>middlepot.com</p>
+</footer>
+</div>
+</body>
+</html>
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Softness Diary</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+<header>
+<h1>Softness Diary</h1>
+<p>A tribute to my 2004-ish blog</p>
+</header>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Links</a></li>
+<li><a href="#">Contact</a></li>
+<li><a href="#">Credits</a></li>
+</ul>
+</nav>
+<main>
+<section class="blog-entry">
+<p>Welcome to my soft and warm place. Here, you can find my current blog posts...</p>
+</section>
+</main>
+<aside>
+<div class="sidebar">
+<h2>Welcome</h2>
+<p>Meu lugar macio e fofo...</p>
+</div>
+</aside>
+<footer>
+<p>middlepot.com</p>
+</footer>
+</div>
+</body>
+</html>
